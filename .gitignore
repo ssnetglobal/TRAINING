@@ -1,5 +1,7 @@
 #ignore files 
 /*steve
 /*ignore_file
+/note.txt
 /*vscode
-/*node-modules  
+/*node-modules 
+
