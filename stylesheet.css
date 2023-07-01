@@ -24,3 +24,16 @@ header{
     border: none;
     font-size: 24px;
 }
+.d{
+    padding-top: 10px;
+    align-content: center;
+}
+ul{
+    list-style: none;
+    display: flex;
+}
+
+li{
+    padding: 10px;
+    font-size: 20px;
+}
